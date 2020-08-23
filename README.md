@@ -7,15 +7,14 @@ Hi there 👋
 </font>
 <br>
 My name is <a href="pseudo-dev.tk">Illyes</a>, I've been learning programming for a year now and I love it. I'm currently doing <strong>websites</strong> and <strong>discord chat </strong>. The languages I'm learning are: <strong>JS</strong> and <strong>PHP</strong>
-___
 
 <p align="center">
-	<br>
-	<br>
-	<br>
-	<img src="http://img.shields.io/badge/Discord-%40Pseudo%95Illyes%230657-7289DA?style=for-the-badge" />
-	&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="http://img.shields.io/badge/Twiter-%40Pseudo%95Illyes-1DA1F2?style=for-the-badge" />
+	<br />
+	<br />
+	<br />
+	<img src="http://img.shields.io/badge/Discord-%40Pseudo&#95;Illyes%230657-7289DA?style=for-the-badge" />
+	<br />
+	<img src="http://img.shields.io/badge/Twiter-%40Pseudo&#95;Illyes-1DA1F2?style=for-the-badge" />
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="http://img.shields.io/badge/Instagram-%40illyes.all-E1306C?style=for-the-badge" />
 	<br>
