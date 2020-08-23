@@ -13,10 +13,10 @@ ___
 	<br>
 	<br>
 	<br>
-	<img src="http://img.shields.io/badge/Discord-%40Pseudo_Illyes%230657-7289DA?style=for-the-badge" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="http://img.shields.io/badge/Twiter-%40Pseudo_Illyes-1DA1F2?style=for-the-badge" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="http://img.shields.io/badge/Discord-%40Pseudo%95Illyes%230657-7289DA?style=for-the-badge" />
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="http://img.shields.io/badge/Twiter-%40Pseudo%95Illyes-1DA1F2?style=for-the-badge" />
+	&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="http://img.shields.io/badge/Instagram-%40illyes.all-E1306C?style=for-the-badge" />
 	<br>
 	<br>
