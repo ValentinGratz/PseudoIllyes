@@ -12,6 +12,8 @@ My name is <a href="pseudo-dev.tk">Illyes</a>, I've been learning programming fo
 	<br />
 	<br />
 	<br />
+	<br />
+	<br />
 	<img src="http://img.shields.io/badge/Twiter-%40Pseudo&#95;Illyes-1DA1F2?style=for-the-badge" />
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="http://img.shields.io/badge/Instagram-%40illyes.all-E1306C?style=for-the-badge" />
